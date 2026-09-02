@@ -52,7 +52,8 @@ export default function Navbar() {
             </a>
           ))}
           <a 
-            href="#" 
+            href="https://drive.google.com/file/d/1Pnj6hbwwuEFVR_s12YtBLm_kzxUhaRf2/view?usp=sharing"
+            target="_blank" rel="noopener noreferrer"
             className="text-sm font-medium text-primary-blue border border-primary-blue/30 px-5 py-2 rounded-full hover:bg-blue-50 transition-colors"
           >
             Résumé

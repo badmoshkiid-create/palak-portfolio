@@ -20,7 +20,7 @@ export default function Footer() {
 
           <div className="flex flex-col sm:flex-row md:justify-end gap-6">
             <a 
-              href="/resume.pdf" target="_blank" rel="noopener noreferrer"
+              href="https://drive.google.com/file/d/1Pnj6hbwwuEFVR_s12YtBLm_kzxUhaRf2/view?usp=sharing" target="_blank" rel="noopener noreferrer"
               className="group flex items-center justify-center gap-2 bg-primary-blue hover:bg-primary-dark text-white px-8 py-4 rounded-full font-medium transition-all shadow-lg shadow-blue-500/20"
             >
               Download Résumé

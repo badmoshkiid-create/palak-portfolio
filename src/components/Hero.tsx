@@ -46,7 +46,7 @@ export default function Hero() {
                 View My Work
               </button>
               <a 
-                href="/resume.pdf" target="_blank" rel="noopener noreferrer"
+                href="https://drive.google.com/file/d/1Pnj6hbwwuEFVR_s12YtBLm_kzxUhaRf2/view?usp=sharing" target="_blank" rel="noopener noreferrer"
                 className="group flex items-center gap-2 border-2 border-primary-blue text-primary-blue hover:bg-blue-50 px-8 py-3 rounded-full font-medium transition-all"
               >
                 Download Résumé

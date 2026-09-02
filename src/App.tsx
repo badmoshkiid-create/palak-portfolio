@@ -30,7 +30,7 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-[#F8FAFC] font-sans selection:bg-primary-blue/20 selection:text-primary-dark">
+    <div className="min-h-screen bg-[#F8FAFC] font-sans selection:bg-primary-blue/20 selection:text-primary-dark overflow-x-hidden">
       <AnimatePresence mode="wait">
         {showSplash && <SplashScreen key="splash" />}
       </AnimatePresence>
